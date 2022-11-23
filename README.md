@@ -26,4 +26,6 @@ This project aims at building a web App that automatically estimates food attrib
 
 
 # Demo Link
+https://drive.google.com/file/d/1kQFQ1xc60iCLkWY1_KNDE-2tbl00Rg22/view?usp=drivesdk 
+
 
